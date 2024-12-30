@@ -27,47 +27,47 @@ A comprehensive Fees Administration System can automate fee collection, record-k
 Login Page:
 
 <p align="center">
-<img width="600" height="350" src="Images/1.png ">
+<img width="600" height="350" src="images/1.png ">
 </p>
                             
 SignUp Page:
 
 <p align="center">
-<img width="600" height="350" src="Images/2.png ">
+<img width="500" height="650" src="images/2.png ">
 </p>
                                                                
 Home Page:
 
 <p align="center">
-<img width="600" height="350" src="Images/3.png ">
+<img width="600" height="350" src="images/3.png ">
 </p>
                               
 Add Fees Module:   
                              
 <p align="center">
-<img width="600" height="350" src="Images/4.png ">
+<img width="600" height="350" src="images/4.png ">
 </p>
 
 Update Fees Module:      
                                    
 <p align="center">
-<img width="600" height="350" src="Images/5.png ">
+<img width="600" height="350" src=images/5.png ">
 </p>
 
 Edit Course Details:
 
 <p align="center">
-<img width="600" height="350" src="Images/6.png ">
+<img width="600" height="350" src="images/6.png ">
 </p>
                                           
 Search Record:
 
 <p align="center">
-<img width="600" height="350" src="Images/7.jpg ">
+<img width="600" height="350" src="images/7.png ">
 </p>
 
 Generate Report:
 
 <p align="center">
-<img width="600" height="350" src="Images/7.jpg ">
+<img width="600" height="350" src="images/8.png ">
 </p>
